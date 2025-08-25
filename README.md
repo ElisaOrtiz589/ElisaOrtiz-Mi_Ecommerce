@@ -1,3 +1,1 @@
-# ElisaOrtiz-Mi_Ecommerce
-# ElisaOrtiz-Mi_Ecommerce
-# ElisaOrtiz-Mi_Ecommerce
+Este proyecto es una maqueta de una página de e-commerce, desarrollada como parte del curso de CSS Avanzado. El principal objetivo es demostrar el uso de **CSS Grid Layout** para la estructura principal de la página y **Flexbox** para la alineación de componentes internos.
